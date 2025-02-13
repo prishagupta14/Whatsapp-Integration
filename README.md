@@ -260,7 +260,7 @@ Conclusion
 The WhatsApp Business API is designed for businesses that require automated and scalable customer interactions. However, strict policies and limitations ensure it is used ethically and legally. Businesses must comply with Meta’s guidelines to avoid restrictions or bans.
 
  
-WhatsApp Integration Chatbot Using Meta Developer Account
+## WhatsApp Integration Chatbot Using Meta Developer Account
 
 1. Introduction
 
