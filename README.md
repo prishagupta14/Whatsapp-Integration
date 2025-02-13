@@ -171,6 +171,92 @@ Additional Notes:
  a. Live Mode: Switch your app to Live Mode after setup to allow real user interaction.
  b. Business Verification: Necessary to use the WhatsApp Business API at scale.
 
+## Restrictions of WhatsApp Meta Developer Account
 
+1. Account Setup & Verification
+
+Business Verification Required: Businesses must complete Meta’s verification process to access full API features.
+
+Industry Restrictions: Some industries are prohibited from using WhatsApp Business API, such as:
+
+a. Adult content
+
+b. Gambling & betting
+
+c. Alcohol & tobacco sales
+
+d. Cryptocurrency & financial speculation
+
+e. Weapons & explosives
+
+f. Phone Number Approval: Each phone number must be approved by Meta before use.
+
+2. Messaging Limitations
+
+Template Message Approval: Businesses must use pre-approved message templates for outbound communication.
+
+Session Messaging: Free-form messages are allowed only within 24 hours of the last customer-initiated message.
+
+Rate Limits: Messaging volume is tiered based on account quality and verification:
+
+Tier 1: 1,000 unique users per day
+
+Tier 2: 10,000 unique users per day
+
+Tier 3: 100,000 unique users per day
+
+Tier 4: Unlimited (based on high-quality engagement)
+
+3. API Access & Restrictions
+
+No Broadcast Messaging: Bulk messaging or spam is strictly prohibited.
+
+No Personal Use: The API is only for business-related communications.
+
+Only Approved Use Cases: WhatsApp Business API is primarily for customer support and transactional messaging.
+
+No Automated Marketing: Promotional messages cannot be sent unless the customer has opted in.
+
+4. Data & Privacy Compliance
+
+No Message Storage: WhatsApp does not store messages; businesses must handle data compliance separately.
+
+User Consent Required: Customers must opt in before receiving messages.
+
+End-to-End Encryption: Businesses cannot access message contents beyond their chat logs.
+
+No Data Sharing: Selling or sharing customer data is prohibited.
+
+5. Billing & Costs
+
+Paid Conversations: Businesses are charged per conversation, with different rates for user-initiated and business-initiated messages.
+
+Country-Based Pricing: Costs vary based on customer location.
+
+Limited Free Conversations: Only 1,000 free conversations per month (across all numbers linked to the account).
+
+6. Account Suspension & Penalties
+
+Quality Rating System: Meta monitors engagement, and poor quality (e.g., high block rates) can lead to restrictions.
+
+Violations Lead to Bans: Repeated violations of Meta policies may result in:
+
+Messaging restrictions
+
+Phone number disconnection
+
+Permanent account ban
+
+7. Integration & Technical Restrictions
+
+No WhatsApp Web Support: The Business API cannot be used with the WhatsApp Web interface.
+
+Hosting Requirements: Businesses must use a Meta-approved Business Solution Provider (BSP) or host the API themselves.
+
+Limited Multi-Device Support: WhatsApp API does not support multiple device logins like the standard WhatsApp app.
+
+Conclusion
+
+The WhatsApp Business API is designed for businesses that require automated and scalable customer interactions. However, strict policies and limitations ensure it is used ethically and legally. Businesses must comply with Meta’s guidelines to avoid restrictions or bans.
 
  
