@@ -373,6 +373,7 @@ WhatsApp may impose charges for certain services or features, and businesses mus
 Data Privacy:
 
 WhatsApp handles user data according to its Privacy Policy. For businesses, it's important to adhere to data protection laws, including GDPR, if operating in applicable regions.
+
 2. Acceptable Use Policy (AUP)
 The Acceptable Use Policy governs the type of content that is permissible on WhatsApp and outlines prohibited activities for both users and businesses.
 
@@ -394,12 +395,14 @@ Users and businesses are not allowed to impersonate others, including other busi
 Privacy Violations:
 
 Sharing or collecting personal data without consent or using it for unauthorized purposes violates WhatsApp’s rules.
+
 3. Specific Rules for WhatsApp Business Accounts
 Businesses using the WhatsApp Business API must adhere to additional rules and guidelines:
 
 User Consent: Businesses must get prior consent from customers before messaging them.
 No Spamming: Only message users who have opted in. Sending promotional content to users who have not opted in will lead to violations.
 Quality of Service: Businesses must ensure that their messages are relevant and useful to customers, avoiding unnecessary or irrelevant communication.
+
 4. WhatsApp’s Rights and Enforcement Actions
 WhatsApp has the right to:
 
