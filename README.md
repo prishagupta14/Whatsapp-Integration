@@ -349,7 +349,7 @@ Monitor Chatbot Performance using analytics tools.
 Integrating a WhatsApp chatbot with Meta Developer Account enables businesses to automate interactions efficiently. By following best practices and compliance guidelines, businesses can enhance customer engagement while ensuring a smooth user experience.
 
 
-##WhatsApp’s Terms of Service and Acceptable Use Policy
+## WhatsApp’s Terms of Service and Acceptable Use Policy
 
 1. WhatsApp Terms of Service Overview
 The WhatsApp Terms of Service set the guidelines for using WhatsApp, including rules around the WhatsApp Business API and user interactions. This document applies to everyone using WhatsApp, including businesses and developers.
