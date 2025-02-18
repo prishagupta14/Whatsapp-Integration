@@ -416,3 +416,51 @@ To prevent issues with your WhatsApp Business account, ensure you:
 Familiarize yourself with and comply with the Terms of Service and Acceptable Use Policy.
 Obtain proper consent from users for any message you send.
 Avoid practices like spam and impersonation, and make sure your business activities align with WhatsApp’s policies.
+
+
+## WhatsApp Business API Policy Overview
+  1. Compliance with WhatsApp Policies
+Ensure your app complies with WhatsApp's Terms of Service and Policies.
+Familiarize yourself with WhatsApp's Business Policy and Commerce Policy.
+  2. Approved Use Cases
+WhatsApp has specific approved use cases for businesses, such as customer support and transactional messages.
+Ensure your app fits within these approved use cases.
+  3. Opt-in and User Consent
+Obtain explicit user consent before sending messages or making calls.
+Ensure users understand how their data will be used.
+  4. Message Formatting and Content
+Adhere to WhatsApp's message formatting guidelines.
+Ensure message content complies with WhatsApp's policies, including no spam, phishing, or harassment.
+  5. Phone Number Verification
+Verify user phone numbers to prevent spam and ensure message delivery.
+  6. Rate Limits and Spam Prevention
+Adhere to WhatsApp's rate limits for messages and calls.
+Implement spam prevention measures to prevent abuse.
+  7. Data Protection and Privacy
+Comply with data protection regulations, such as GDPR and CCPA.
+Ensure user data is stored securely and in accordance with WhatsApp's policies.
+  8. Display Name and Business Profile
+Use a clear and accurate display name and business profile.
+Ensure your business profile complies with WhatsApp's policies.
+  9. Prohibited Activities
+Avoid prohibited activities, such as spamming, phishing, or harassment.
+Ensure your app does not facilitate or promote prohibited activities.
+
+## Best Practices for Avoiding Account Disablement
+  1. Monitor Your Account Activity
+Regularly review your account activity to detect potential issues.
+Address any issues promptly to prevent account disablement.
+  2. Comply with WhatsApp's Policies
+Ensure your app complies with WhatsApp's policies and guidelines.
+Regularly review WhatsApp's policies to ensure ongoing compliance.
+  3. Provide Clear User Consent
+Obtain explicit user consent before sending messages or making calls.
+Ensure users understand how their data will be used.
+  4. Implement Spam Prevention Measures
+Implement measures to prevent spam and abuse.
+Regularly review and update your spam prevention measures.
+
+Additional Resources
+WhatsApp Business API Policy: <(link unavailable)>
+WhatsApp Business API Terms of Service: <(link unavailable)>
+WhatsApp Developer Documentation: <(link unavailable)>
